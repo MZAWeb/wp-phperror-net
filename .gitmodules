@@ -1,0 +1,3 @@
+[submodule "PHP-Error"]
+	path = PHP-Error
+	url = https://github.com/JosephLenton/PHP-Error.git
